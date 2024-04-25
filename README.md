@@ -1,4 +1,4 @@
-# Marketing common data modelling challenge
+# Marketing common data modelling challenges
 	Welcome to Marketing common data modelling challenge!
 
 ## Task
